@@ -1,20 +1,49 @@
-# Algorithms and Data Structures in Java
+# Algorithms and Data Structures
 
-The repo consists of solutions to numerous problems using different data structures and algorithms, all coded in Java. It also contains solutions to HackerRank problems which I have solved so far and also questions from Cracking the Coding Interview Book _(6th Edition)_.
+A Java collection of algorithm, data-structure, and coding-problem implementations covering foundational computer science concepts and interview-oriented problem solving.
 
-You can also refer to my [Java Notes](http://java.ramswaroop.me) for a quick refresh on the Java concepts.
+## Overview
 
-## Environment
+This repository contains Java implementations and exercises across core algorithms, data structures, and programming problems.
 
-### Java Version
-Java version 1.8.0_172  
-Java(TM) SE Runtime Environment (build 1.8.0_172-b11)  
-Java HotSpot(TM) 64-Bit Server VM (build 25.172-b11, mixed mode) 
+The collection includes examples related to:
 
-### IDE
-IntelliJ IDEA 2018.1.4 (Ultimate Edition)
+- arrays and strings
+- linked lists
+- stacks and queues
+- trees and graphs
+- sorting and searching
+- recursion and backtracking
+- dynamic programming
+- bit manipulation
+- permutations
+- Java language concepts
+- coding-interview exercises
 
-### Machine
-MacBook Pro  
-2.5 GHz Intel Core i7   
-16 GB 1600 MHz DDR3
+The source code is organized under:
+
+```text
+src/main/java/
+```
+
+## Repository Structure
+
+```text
+algorithms-and-data-structures/
+├── src/
+│   └── main/
+│       └── java/
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+## Purpose
+
+This repository is maintained as a reference and practice collection for foundational algorithms, data structures, and Java problem solving.
+
+It complements larger software engineering projects by preserving examples of core computer science concepts and algorithmic problem-solving techniques.
+
+## License
+
+Distributed under the **GNU General Public License v3.0**. See [LICENSE](LICENSE) for details.
